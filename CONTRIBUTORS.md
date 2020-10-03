@@ -58,5 +58,7 @@
 - Place: kozhikode, kerala, india
 - Bio: student
 - GitHub: [vaishnavisb809](https://github.com/vaishnavisb809)
-
-
+ #### Name: [Partha Talukdar)
+- Place: Guwahati,India
+- Bio: DevOps Enginner
+- GitHub: [parth93QA](https://github.com/parth93QA)
